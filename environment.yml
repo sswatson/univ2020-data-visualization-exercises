@@ -1,0 +1,10 @@
+name: plotly-simple
+channels:
+  - conda-forge
+  - plotly
+dependencies:
+  - numpy
+  - pandas
+  - plotly
+  - pip:
+    - pydataset
